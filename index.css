@@ -48,11 +48,10 @@ header nav a{
 /* Main section */
 .banner-container {
     margin: 30px 0;
-    overflow: hidden;
-
 }
 .banner-image {
-    width: 100%;
+    width: 80%;
+    
 }
 
 .category-heading {
