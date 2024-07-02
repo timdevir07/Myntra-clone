@@ -103,9 +103,11 @@ header{
 }
 
 .category-items{
-    /* display: flex;
-    flex-wrap: wrap; */
+    display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
+    margin-right: 10px;
+    /* margin-left: 10px; */
 }
 
 .sale-item {
@@ -142,4 +144,12 @@ header{
     color: #94969f;
     text-align:center;
     padding: 15px;
+}
+#pa-store{
+    height: 40px;
+}
+#social-media{
+    display: flex;
+    gap: 15px;
+    cursor: pointer;
 }
